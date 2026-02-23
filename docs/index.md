@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
-  <h1>Khamari: Chasara Sarathi (ଖମାରୀ: ଚାଷର ସାରଥି)</h1>
+  <h1>Khamari: Chasara Sarathi (ଖମାରି : ଚାଷର ସାରଥି)</h1>
   <p><strong>Your Digital Farm Manager | ଆପଣଙ୍କ ଡିଜିଟାଲ୍ ଚାଷ ପରିଚାଳକ</strong></p>
 </div>
 
@@ -8,7 +8,7 @@
 
 Welcome to **Khamari**, the all-in-one farm management application designed specifically for the Indian rural landscape. Whether you are managing livestock, crops, or finances, Khamari acts as your "Sarathi" (Charioteer) to guide your farm toward prosperity.
 
-**ଖମାରୀ** ଆପ୍‌କୁ ସ୍ଵାଗତ। ଏହା ଭାରତୀୟ ଗ୍ରାମୀଣ ପରିବେଶ ପାଇଁ ନିର୍ମିତ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଚାଷ ପରିଚାଳନା ଆପ୍। ଆପଣ ଗୋରୁଗାଈ, ଫସଲ କିମ୍ବା ଆର୍ଥିକ କାରବାର - ଯାହା ବି ପରିଚାଳନା କରନ୍ତୁ ନା କାହିଁକି, 'ଖମାରୀ' ଆପଣଙ୍କୁ ଜଣେ 'ସାରଥି' ପରି ସାହାଯ୍ୟ କରିବ।
+**ଖମାରି** ଆପ୍‌କୁ ସ୍ଵାଗତ। ଏହା ଭାରତୀୟ ଗ୍ରାମୀଣ ପରିବେଶ ପାଇଁ ନିର୍ମିତ ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଚାଷ ପରିଚାଳନା ଆପ୍। ଆପଣ ଗୋରୁଗାଈ, ଫସଲ କିମ୍ବା ଆର୍ଥିକ କାରବାର - ଯାହା ବି ପରିଚାଳନା କରନ୍ତୁ ନା କାହିଁକି, 'ଖମାରି' ଆପଣଙ୍କୁ ଜଣେ 'ସାରଥି' ପରି ସାହାଯ୍ୟ କରିବ।
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to **Khamari**, the all-in-one farm management application designed spec
 ### 1. Secure Login | ସୁରକ୍ଷିତ ଲଗ୍‌ଇନ୍
 Khamari uses Google/Firebase authentication to keep your data safe. Every user has their own private database, ensuring your farm secrets stay yours.
 
-ଖମାରୀ ଆପ୍ ଆପଣଙ୍କ ତଥ୍ୟକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ Google/Firebase ବ୍ୟବହାର କରେ। ପ୍ରତ୍ୟେକ ବ୍ୟବହାରକାରୀଙ୍କ ତଥ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ ବ୍ୟକ୍ତିଗତ ରହେ।
+ଖମାରି ଆପ୍ ଆପଣଙ୍କ ତଥ୍ୟକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ Google/Firebase ବ୍ୟବହାର କରେ। ପ୍ରତ୍ୟେକ ବ୍ୟବହାରକାରୀଙ୍କ ତଥ୍ୟ ସମ୍ପୂର୍ଣ୍ଣ ବ୍ୟକ୍ତିଗତ ରହେ।
 
 ### 2. The Dashboard | ମୁଖ୍ୟ ପୃଷ୍ଠା
 From the home screen, you can access specialized sections:
