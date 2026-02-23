@@ -1,4 +1,5 @@
 title: Khamari - Chasara Sarathi
+baseurl: "/pages_khamari" 
 description: Your Digital Farm Manager | ଆପଣଙ୍କ ଡିଜିଟାଲ୍ ଚାଷ ପରିଚାଳକ
 theme: jekyll-theme-cayman # This is a clean, modern themegoogle_analytics: # Add your ID here if you have one
 show_downloads: false
