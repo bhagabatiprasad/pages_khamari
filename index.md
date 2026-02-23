@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/images/logo.svg" alt="Khamari Logo" width="120" height="120">
+  <img src="logo.svg" alt="Khamari Logo" width="120" height="120">
   <h1>Khamari: Chasara Sarathi (ଖମାରୀ: ଚାଷର ସାରଥି)</h1>
   <p><strong>Your Digital Farm Manager | ଆପଣଙ୍କ ଡିଜିଟାଲ୍ ଚାଷ ପରିଚାଳକ</strong></p>
 </div>
@@ -68,7 +68,7 @@ If you have family members or farm managers helping you, you can grant them acce
 ---
 <br>
 <div align="center">
-  <img src="../assets/images/logo.svg" alt="Khamari Logo" width="30" height="30">
+  <img src="logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>Khamari v1.0.0</strong><br>
   Built for the farmers of Odisha | ଓଡ଼ିଶାର ଚାଷୀଙ୍କ ପାଇଁ ନିର୍ମିତ<br>
   For support, contact: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
