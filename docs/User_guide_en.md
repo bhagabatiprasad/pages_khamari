@@ -10,53 +10,53 @@
 
 Welcome to the official guide for **Khamari**—an integrated farm management system designed to bring the power of the cloud to the soil of India.
 
-This guide isn't just a manual; it's the story of how **Laxmi**, a modern farmer, uses Khamari to manage his integrated farm with precision, clarity, and ease.
+This guide isn't just a manual; it's the story of how **Laxmi**, a modern farmer, uses Khamari to manage her integrated farm with precision, clarity, and ease.
 
 ---
 
 ## 📖 The Story: A Day in the Life of a Khamari Farmer
 
 ### Chapter 1: The New Identity (Farm Setup & Registration)
-Laxmi used to worry that his farm lacked a professional identity. When he first opened Khamari, he was greeted in both **Odia and English**. He signed in securely with his **Google account**—no new passwords to remember.
+Laxmi used to worry that her farm lacked a professional identity. When she first opened Khamari, she was greeted in both **Odia and English**. She signed in securely with her **Google account**—no new passwords to remember.
 
-He was prompted to set up his **Farm Profile**. He entered "Laxmi’s Green Haven" and a tagline that resonates with his soul: *“ଚାଷର ସାରଥି ଖମାରର ଉନ୍ନତି” (The charioteer of farming, the progress of the farm)*. He even picked a logo from his gallery, which the app automatically resized and synced to the cloud. Now, every staff member and family member he invites sees the same beautiful branding.
+She was prompted to set up her **Farm Profile**. She entered "Laxmi’s Green Haven" and a tagline that resonates with her soul: *“ଚାଷର ସାରଥି ଖମାରର ଉନ୍ନତି” (The charioteer of farming, the progress of the farm)*. She even picked a logo from her gallery, which the app automatically resized and synced to the cloud. Now, every staff member and family member she invites sees the same beautiful branding.
 
 ### Chapter 2: The Command Center (Dashboard)
-Every morning, Laxmi checks his **Dashboard**. It’s his "Bird’s Eye View." At a glance, he sees:
+Every morning, Laxmi checks her **Dashboard**. It’s her "Bird’s Eye View." At a glance, she sees:
 *   **Today's Yield:** How many liters of milk were produced this morning.
-*   **Finance Status:** A quick summary of his income vs. expenses for the month.
+*   **Finance Status:** A quick summary of her income vs. expenses for the month.
 *   **Pending Activities:** What needs to be done today? Are the cows due for vaccination? Is it time to water the mushroom beds?
 
-The Dashboard ensures Laxmi is never reactive; he is always ahead of his farm's needs.
+The Dashboard ensures Laxmi is never reactive; she is always ahead of her farm's needs.
 
 ### Chapter 3: The Living Records (Livestock, Plants & Allied)
-Khamari is "Integrated," just like Laxmi's farm. He tracks three main pillars:
+Khamari is "Integrated," just like Laxmi's farm. She tracks three main pillars:
 
-1.  **Livestock (ପଶୁପାଳନ):** Laxmi maintains detailed digital cards for his **Cows, Sheep, and Poultry**. He records their breed, health status, and even their lineage (Who is the mother of this calf?). If he adds a new cow similar to an existing one, he simply uses the **Clone Record** feature to save time.
-2.  **Plants (ଉଦ୍ଭିଦ):** From field crops to his fruit orchard (Horticulture) and timber trees (Plantation), Laxmi knows exactly when he planted what and where.
-3.  **Allied Farming (ସହଯୋଗୀ ଚାଷ):** Laxmi’s farm is diverse. He uses Khamari to track his **Mushroom batches (Fungiculture)** and **Beehives (Apiculture)**. He even manages his **Vermicompost units**, ensuring nothing on the farm goes to waste.
+1.  **Livestock (ପଶୁପାଳନ):** Laxmi maintains detailed digital cards for her **Cows, Sheep, and Poultry**. She records their breed, health status, and even their lineage (Who is the mother of this calf?). If she adds a new cow similar to an existing one, she simply uses the **Clone Record** feature to save time.
+2.  **Plants (ଉଦ୍ଭିଦ):** From field crops to her fruit orchard (Horticulture) and timber trees (Plantation), Laxmi knows exactly when she planted what and where.
+3.  **Allied Farming (ସହଯୋଗୀ ଚାଷ):** Laxmi’s farm is diverse. She uses Khamari to track her **Mushroom batches (Fungiculture)** and **Beehives (Apiculture)**. She even manages her **Vermicompost units**, ensuring nothing on the farm goes to waste.
 
 ### Chapter 4: The Team (Staff Management & Labor)
-Laxmi doesn't work alone. He has a team of dedicated workers. In the **Staff Management** section, he keeps a directory of his team.
-*   **Work Logs:** Every evening, he logs the hours his staff worked. 
-*   **Labor Costs:** The app automatically calculates the labor cost based on their hourly rates, linking these costs directly to his farm's financial reports.
+Laxmi doesn't work alone. She has a team of dedicated workers. In the **Staff Management** section, she keeps a directory of her team.
+*   **Work Logs:** Every evening, she logs the hours her staff worked. 
+*   **Labor Costs:** The app automatically calculates the labor cost based on their hourly rates, linking these costs directly to her farm's financial reports.
 
 ### Chapter 5: The Transparent Ledger (Expense Tracking)
-Finance used to be a headache of lost receipts. Now, every time Laxmi buys feed or sells milk, he adds a **Transaction**.
-*   **Categorization:** He tags expenses to specific "Heads" like *Feed, Medicine, or Equipment*.
-*   **Multiple Accounts:** He tracks whether the money came from his **Cash box, Bank account, or UPI**.
+Finance used to be a headache of lost receipts. Now, every time Laxmi buys feed or sells milk, she adds a **Transaction**.
+*   **Categorization:** She tags expenses to specific "Heads" like *Feed, Medicine, or Equipment*.
+*   **Multiple Accounts:** She tracks whether the money came from her **Cash box, Bank account, or UPI**.
 *   **The Ledger:** A chronological history of every rupee that enters or leaves the farm.
 
 ### Chapter 6: Knowledge is Power (Reports)
 At the end of the month, Laxmi generates **Reports**.
-*   **Balance Sheet:** He sees exactly which division (Livestock vs. Crops) is most profitable.
-*   **Head-wise Summary:** He realizes he is spending too much on a specific type of fertilizer and decides to switch to his own organic inputs.
-Khamari doesn't just store data; it provides **insights** that help Laxmi grow his business.
+*   **Balance Sheet:** She sees exactly which division (Livestock vs. Crops) is most profitable.
+*   **Head-wise Summary:** She realizes she is spending too much on a specific type of fertilizer and decides to switch to her own organic inputs.
+Khamari doesn't just store data; it provides **insights** that help Laxmi grow her business.
 
 ### Chapter 7: Security & Sharing (Export, Import & Multi-User)
-Laxmi wanted his brother to help manage the farm from the city. He went to **Member Management** and simply added his brother's email. When his brother logged in, "Laxmi’s Green Haven" appeared on his screen instantly.
+Laxmi wanted her brother to help manage the farm from the city. She went to **Member Management** and simply added her brother's email. When her brother logged in, "Laxmi’s Green Haven" appeared on her screen instantly.
 
-And for peace of mind? Laxmi uses the **Export/Import** feature. With one tap, he generates a JSON backup of his entire farm data and saves it to his Google Drive. His data is as safe as his land.
+And for peace of mind? Laxmi uses the **Export/Import** feature. With one tap, she generates a JSON backup of her entire farm data and saves it to her Google Drive. Her data is as safe as her land.
 
 ---
 
