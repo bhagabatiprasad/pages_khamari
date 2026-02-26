@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+[ଓଡିଆ ରେ ପଢନ୍ତୁ](User_guide_en.md)
 # Khamari: The Digital Heart of Your Farm 🌾
 
 Welcome to the official guide for **Khamari**—an integrated farm management system designed to bring the power of the cloud to the soil of India.
