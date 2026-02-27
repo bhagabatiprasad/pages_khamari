@@ -79,6 +79,7 @@
 **ଖମାରି** କେବଳ ଏକ ଆପ୍ ନୁହେଁ। ଏହା ହେଉଛି ଅଭିବୃଦ୍ଧିରେ ଆପଣଙ୍କର ସାଥୀ।
 *ଆଜି ହିଁ ଆପଣଙ୍କର ଡିଜିଟାଲ୍ ଚାଷ ଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତୁ!*
 
+[Privacy Policy](privacy_policy.md)
 
 ---
 <br>
@@ -88,5 +89,5 @@
   ଓଡ଼ିଶାର ଚାଷୀଙ୍କ ପାଇଁ ନିର୍ମିତ<br>
   ଯୋଗାଯୋଗ ପାଇଁ ଇ-ମେଲ କରନ୍ତୁ : <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
-  [Privacy Policy](privacy_policy.md)
+ 
 </div>
