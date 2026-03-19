@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.svg" alt="Khamari Logo" width="120" height="120">
   <h1>Khamari: Your Digital Farm Partner</h1>
-  <p><strong>Integrated Farm Management Simplified</strong></p>
+  <p><strong>The Most Comprehensive Integrated Farm Management App for Odia Farmers</strong></p>
 </div>
 
 ---
@@ -9,70 +9,87 @@
 
 # Khamari: The Digital Heart of Your Farm 🌾
 
-Welcome to the official guide for **Khamari** — an integrated farm management system designed to bring the power of the cloud to the soil of India.
+**Khamari** (meaning "The Granary/Farmhouse") is not just another app; it is a specialized ERP (Enterprise Resource Planning) solution built from the ground up for the unique needs of **Integrated Farming** in India. Whether you manage a small homestead or a large multi-enterprise farm, Khamari brings precision to your palm.
 
-This guide isn't just a manual; it’s the story of **Bina Kumari**, a modern farmer who uses Khamari to manage her integrated farm with precision, clarity, and ease.
-
----
-
-## 📖 The Story: A Day in the Life of a Khamari Farmer
-
-### Chapter 1: A New Identity (Farm Setup)
-Bina Kumari used to worry that her farm lacked a professional identity. When she first opened Khamari, she was welcomed in both **Odia and English**. She signed in securely using her **Google Account**.
-
-She was prompted to set up her **Farm Profile**. She entered "Bina’s Green Sanctuary" and a tagline that reflects her spirit: *"Companion of the Farmer, Growth of the Farm."* She even uploaded a logo, which the app automatically synced to the cloud. Now, every staff member she invites sees the same beautiful branding.
-
-### Chapter 2: The Control Center (Dashboard & Weather)
-Every morning, Bina checks her **Dashboard**. It’s her "bird’s eye view." At a glance, she sees:
-*   **Daily Production:** How many liters of milk were collected this morning.
-*   **Weather Forecast:** A 5-day local forecast to plan her irrigation or harvests.
-*   **Pending Activities:** What needs to be done today? Are the cows due for vaccination?
-*   **Quick Add FAB:** Using the central '+' button, she can record an expense or a harvest in seconds without leaving the main screen.
-
-### Chapter 3: Living Records (Livestock, Plants & Allied)
-Like Bina’s farm, Khamari is "Integrated." She tracks three main pillars:
-
-1.  **Livestock:** Bina maintains detailed digital cards for her **Cows, Sheep, and Poultry**. She records breeds, health status, and even lineage. If she adds a new cow similar to an existing one, she uses **Clone Record** to save time.
-2.  **Plants:** From field crops to her **Horticulture** gardens and **Plantation** trees, Bina knows exactly what is planted where.
-3.  **Allied Farming:** Bina’s farm is diverse. She uses Khamari to track **Mushroom (Fungiculture)** batches and **Beekeeping (Apiculture)**. She also manages her **Organic Input** units (Vermicompost), ensuring nothing goes to waste.
-
-### Chapter 4: The Team (Staff Management)
-Bina doesn't work alone. In the **Staff** section, she keeps a directory of her workers.
-*   **Work Logs:** Every evening, she logs how many hours her staff worked.
-*   **Labor Costs:** The app automatically calculates labor costs based on their hourly rates and links it to her financial reports.
-
-### Chapter 5: Transparent Ledger (Finance & Dues)
-Bookkeeping used to be a headache. Now, every time Bina buys feed or sells produce, she adds a **Transaction**.
-*   **Categorization:** She tags expenses to specific "Heads" like *Feed, Medicine, or Equipment*.
-*   **Accounts:** She tracks if money came from her **Cash box, Bank, or UPI**.
-*   **Dues & Parties:** She can track outstanding payments by **Party** (Customer/Vendor), making it easy to see who owes what.
-
-### Chapter 6: Knowledge is Power (Reports Hub)
-At the end of the month, Bina visits the **Reports Hub**.
-*   **Balance Sheet:** She sees which division (Livestock or Plants) is most profitable.
-*   **Analytical Charts:** She visualizes income trends and production yields to make data-driven decisions for the next season.
-
-### Chapter 7: Security & Collaboration
-Bina invited her son to help manage the farm via **Member Management**. She also uses the **Cloud Backup** feature to ensure her data is safe. One tap, and her entire farm history is backed up to her Google Drive.
+This guide follows the journey of **Bina Kumari**, a progressive farmer who transformed her traditional operations into a data-driven enterprise using Khamari.
 
 ---
 
-## 🚀 Key Features at a Glance
+## 📖 The Story: A Journey of Transformation
 
-| Feature | What it does for you |
+### Chapter 1: A Professional Identity (Farm Setup & Profile)
+Bina Kumari used to keep her farm records in multiple tattered notebooks. She often struggled to show her farm's progress to bank officials or visitors. With Khamari, the first thing she did was create a **Digital Identity**.
+
+*   **Bilingual Accessibility:** Bina uses the app in **Odia**, while her son switches to **English** on the same device.
+*   **Farm Branding:** She set up her farm profile with a custom logo and the tagline: *"Companion of the Farmer, Growth of the Farm."* This branding now appears on her shared reports and staff views, giving her operation a professional "brand" feel.
+
+### Chapter 2: The Control Center (Dashboard & Live Insights)
+Every morning, Bina opens her **Dashboard**. Instead of walking to every pond and pen first, she checks her "Digital Mirror":
+*   **Production Trends:** A 30-day visual sparkline shows her if milk yield is dropping or egg production is peaking. She can filter this by produce type to spot issues instantly.
+*   **Weather Intelligence:** Location-specific 5-day forecasts help her decide if it's the right day for manure application or if she should prepare for heavy rain.
+*   **Actionable Alerts:** "Not Logged Today" banners remind her if someone forgot to record the morning milk or mushroom harvest.
+*   **Quick Add FAB:** The central green '+' button is her best friend—she can log an expense or a sudden income in just 3 taps.
+
+### Chapter 3: Living Records (Integrated Enterprise Management)
+Bina’s farm is a ecosystem. Khamari manages every branch of it:
+
+1.  **Livestock (The Wealth):** 
+    *   **Cattle & Dairy:** She tracks every cow's tag number, breeding history, and vaccination dates.
+    *   **Poultry & Duckery:** Manage flocks rather than individuals. Track mortality, feed consumption, and egg cycles.
+    *   **Fishery:** Pond-wise stocking records with species tracking and harvest logs.
+2.  **Plants & Crops (The Greenery):** 
+    *   **Plot-wise Tracking:** Bina mapped her farm into plots (Field Crops, Horticulture, Plantations).
+    *   **Cycle Management:** From sowing/planting to the final harvest, every stage is logged.
+    *   **Fodder & Agroforestry:** She even tracks her Azolla beds and timber trees, ensuring she has enough feed for her cattle year-round.
+3.  **Allied Units (The Innovation):** 
+    *   **Mushrooms:** Batch-wise tracking of spawn dates and flush yields.
+    *   **Beekeeping:** Inspection logs to check colony strength and honey harvest records.
+    *   **Organic Inputs:** Monitoring her Vermicompost and Jeevamrutha production to reduce dependency on chemical fertilizers.
+
+### Chapter 4: Your Workforce (Staff & Labor Integration)
+Managing labor was Bina's biggest headache. Khamari solved it by linking **People to Profits**:
+*   **Staff Profiles:** Detailed records of every worker, including their specialized roles (e.g., "Livestock Handler") and hourly rates.
+*   **Work Logs & Leave:** No more disputes over attendance. Bina logs hours directly, and the app tracks leave days.
+*   **Automatic Costing:** When a staff member logs 5 hours of "Field Work," the app automatically calculates the cost and adds it to the **Crop Expenses** in the finance section.
+
+### Chapter 5: The Transparent Ledger (Finance & Dues)
+Khamari acts as Bina's personal accountant, but in a language she understands:
+*   **Division-wise Accounting:** She sees exactly how much she spent on "Poultry Feed" vs "Cattle Medicine."
+*   **Party-wise Tracking:** Bina sells to 5 different vendors. Khamari groups her transactions by **Party**, showing her a "Dues Statement" for each. She knows exactly who owes her money and who she needs to pay.
+*   **Auto-Income:** Every time she logs "20 Litres of Milk" in the production section, Khamari automatically creates an **Income Transaction**, saving her from double-entry.
+
+### Chapter 6: Knowledge is Power (The Reports Hub)
+At the end of every season, Bina becomes a business analyst. The **Reports Hub** provides:
+*   **7/30/90 Day Trends:** Visualizing growth over time. Is the farm growing? Are expenses outpacing income?
+*   **Financial Health:** A clear "Profit vs Loss" summary for the entire farm and for individual divisions.
+*   **Data-Driven Decisions:** Seeing her high expenses in "Purchased Feed" led Bina to increase her "Fodder" plot size—a decision that saved her ₹5,000 last month.
+
+### Chapter 7: Collaboration & Safety (Sync & Roles)
+Bina invited her husband and son to the farm. 
+*   **Owners/Admins:** Bina manages the farm profile and members.
+*   **Editors:** Her son logs daily production and activities.
+*   **Viewers:** Her husband monitors the reports to stay informed.
+*   **Cloud Security:** All data is securely stored in the cloud. If Bina loses her phone, she simply logs in on a new one, and her entire farm is back in her hands instantly.
+
+---
+
+## 🛠 Features Summary
+
+| Feature | Value to You |
 | :--- | :--- |
-| **Google Sign-In** | Secure access in one tap. |
-| **Quick Add FAB** | The fastest way to log any data from the Dashboard. |
-| **Reports Hub** | Deep analysis of profits, yields, and trends. |
-| **Dues Management** | Track outstanding payments by Customer or Vendor. |
-| **Bilingual UI** | Full support for English and Odia. |
-| **Multi-User Sync** | Invite family or managers to work together. |
-| **Offline-Ready Backup** | Export your entire database as a file anytime. |
+| **Integrated Management** | Manage Livestock, Plants, Allied, and Finance in one app. |
+| **Bilingual Support** | Full UI in **English and Odia** for better local accessibility. |
+| **RBAC Roles** | Securely share your farm with family and staff with controlled access. |
+| **30-Day Visual Trends** | Catch production drops early with interactive sparkline charts. |
+| **Dues & Parties** | Stop losing money to forgotten debts with Party-wise ledger tracking. |
+| **Auto-Linked Data** | Production logs automatically create finance entries. |
+| **Cloud Sync & Backup** | Real-time synchronization across multiple devices. |
+| **Activity Calendar** | Schedule vaccinations and harvests; never miss a due date. |
 
 ---
 
-**Khamari** is more than an app. It’s your partner in growth.
-*Start your digital farming journey today!*
+**Khamari** is more than an app—it's a commitment to the growth of Indian Agriculture. 
+*Digitize your farm. Multiply your growth.*
 
 [Privacy Policy](privacy_policy.md)
 
@@ -80,8 +97,8 @@ Bina invited her son to help manage the farm via **Member Management**. She also
 <br>
 <div align="center">
   <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
-  <p><strong>Khamari v1.0.0</strong><br>
-  Built for the Farmers of India<br>
+  <p><strong>Khamari v1.1.0</strong><br>
+  Designed & Built with ❤️ for the Farmers of India<br>
   Support: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
 </div>
